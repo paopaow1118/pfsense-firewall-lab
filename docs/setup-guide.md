@@ -102,31 +102,3 @@ The following tests were performed to verify the lab:
 * Ubuntu successfully resolved DNS by pinging **google.com**.
 
 These tests confirmed that routing, DHCP, DNS, and NAT were functioning correctly.
-
----
-
-# Skills Demonstrated
-
-* Firewall deployment
-* Virtual networking
-* LAN/WAN configuration
-* DHCP configuration
-* Network Address Translation (NAT)
-* Linux networking
-* VirtualBox administration
-* Network troubleshooting
-* Connectivity verification
-
----
-
-# Future Improvements
-
-This lab will be expanded to include:
-
-* Kali Linux
-* Custom firewall rules
-* Network scanning with Nmap
-* Packet capture using Wireshark
-* Intrusion detection with Suricata or Security Onion
-* Windows client VM
-* Security monitoring and incident analysis
