@@ -112,18 +112,3 @@ The tests confirmed:
 * DNS resolution working
 * Internet access routed successfully through pfSense
 
----
-
-# Key Takeaways
-
-Building this lab reinforced several networking concepts:
-
-* DHCP lease assignment
-* APIPA addressing (`169.254.x.x`)
-* LAN/WAN segmentation
-* NAT configuration
-* Virtual networking with Oracle VirtualBox
-* Firewall deployment and management
-* Systematic network troubleshooting
-
-These troubleshooting exercises provided practical experience diagnosing connectivity and configuration issues commonly encountered in enterprise environments.
