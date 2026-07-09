@@ -45,3 +45,15 @@ Built a pfSense firewall in Oracle VirtualBox to simulate an enterprise network.
 - Diagnosed DHCP failures resulting in APIPA (169.254.x.x) addresses.
 - Correctly configured pfSense DHCP services to restore client connectivity.
 - Verified NAT and DNS functionality.
+
+# Future Improvements
+
+This lab will be expanded to include:
+
+- Kali Linux
+- Custom firewall rules
+- Network scanning with Nmap
+- Packet capture using Wireshark
+- Intrusion detection with Suricata or Security Onion
+- Windows client VM
+- Security monitoring and incident analysis
